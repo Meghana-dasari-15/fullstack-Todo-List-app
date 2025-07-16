@@ -8,4 +8,4 @@ A simple full-stack Todo app built using:
 
 ## 📦 Folder Structure
 
-https://fullstack-todo-list-app-woad.vercel.app/
+https://react-todo-frontend-beta.vercel.app
